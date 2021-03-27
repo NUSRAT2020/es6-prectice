@@ -23,4 +23,4 @@ const result4 = doMAth(2,4)
 console.log( result );
 console.log( result2 );
 console.log( result3 );
-console.log( result4 );
+console.log( result );
